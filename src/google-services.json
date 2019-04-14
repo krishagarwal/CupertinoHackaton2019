@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "758912702967",
+    "firebase_url": "https://kaagproject-8b00e.firebaseio.com",
+    "project_id": "kaagproject-8b00e",
+    "storage_bucket": "kaagproject-8b00e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:758912702967:android:5b201c3d79af8204",
+        "android_client_info": {
+          "package_name": "com.example.kaagapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "758912702967-4s6q4b1m9rk5u5p1o2s7fvdfn5fvbk4p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxX09-yz4GF1nfsafLHEwqxDfeQScK0ZQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "758912702967-4s6q4b1m9rk5u5p1o2s7fvdfn5fvbk4p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
